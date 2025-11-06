@@ -1,0 +1,91 @@
+Dear [[FNAME]],
+
+As a preferred subscriber, you are invited to extend your subscription to
+[[PUBNAME1]] [[PUBNAME2]] at a guaranteed low rate.
+
+PLUS, renew for two years, and claim your special Bonus 9th Issue AND the special
+Sharpening Carving Tools for Beginners booklet - an $18 value! - ABSOLUTELY FREE!
+
+Keep all your woodcarving tools and knives sharp and in tip top shape! This compact guide by renowned artist Lora Irish offers clear step-by-step guidance to walk beginners through the basics of sharpening knives, gouges, V-tools, and chisels. Also included are informative sections on safety, basic sharpening techniques, what to keep in your sharpening kit, tool storage and cleanup tips, and more!
+
+Your subscription expires with the [[EXPDATE]] issue.
+
+To keep each project-packed issue arriving at your doorstep,
+simply click the link below and renew today!
+http://service.qfie.com/WCIM/clsWCIMRenewal1.asp?strOrdnum=[[ORDERNUM]]&strRenEffort=[[RENEFF]]&Trackcode=j12EMR&strAspReason=103
+
+If you prefer, you can call us at 800-457-9112. 
+International customers 717-560-4703.
+
+All subscribers are protected by our 100% Money-Back Guarantee! 
+If you are ever dissatisfied, cancel any time 
+and receive a full refund for all unmailed issues...
+
+[[str_trim(
+DESCR1+" "+AMOUNT1+CR+
+DESCR2+" "+AMOUNT2+CR+
+DESCR3+" "+AMOUNT3+CR+
+DESCR4+" "+AMOUNT4+CR+
+DESCR5+" "+AMOUNT5+CR+
+DESCR6+" "+AMOUNT6+CR+
+DESCR7+" "+AMOUNT7+CR+
+DESCR8+" "+AMOUNT8+CR+
+DESCR9+" "+AMOUNT9+CR+
+DESCR10+" "+AMOUNT10+CR+
+DESCR11+" "+AMOUNT11+CR+
+DESCR12+" "+AMOUNT12+CR+
+DESCR13+" "+AMOUNT13+CR+
+DESCR14+" "+AMOUNT14+CR+
+DESCR15+" "+AMOUNT15+CR+
+DESCR16+" "+AMOUNT16+CR+
+DESCR17+" "+AMOUNT17+CR+
+DESCR18+" "+AMOUNT18+CR+
+DESCR19+" "+AMOUNT19
+)]]
+
+[[str_trim(
+MESSAGE1A+CR+
+MESSAGE1B+CR+
+MESSAGE1C+CR+
+MESSAGE1D
+)]]
+
+
+The Details
+-----------
+Our order number: [[ORDERNUM]]-R[[EFFORT]]
+Expiration date: [[EXPDATE]]
+
+Your address
+------------
+[[str_trim(
+ADDRESS1+CR+
+ADDRESS2+CR+
+ADDRESS3+CR+
+ADDRESS4+CR+
+ADDRESS5+CR+
+ADDRESS6
+)]]
+
+Shipped to
+----------
+[[str_trim(
+SHIPADDR1+CR+
+SHIPADDR2+CR+
+SHIPADDR3+CR+
+SHIPADDR4+CR+
+SHIPADDR5+CR+
+SHIPADDR6
+)]]
+
+Woodcarving Illustrated
+903 Square Street 
+Mount Joy, PA 17552
+1-800-457-9112
+WoodcarvingIllustrated.com
+
+A Division of Fox Chapel Publishing
+If you no longer wish to receive email renewal notices, 
+simply hit reply with the word 'remove' in the subject line
+or email unsubscribe@foxchapelpublishing.com.
+

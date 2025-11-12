@@ -1,43 +1,48 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <title>Email Templates Gallery</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="style.css">
 </head>
-<body style="margin:0;font-family:Arial,Helvetica,sans-serif;background:#f7f8f9;color:#111">
-  <div style="max-width:820px;margin:0 auto;padding:24px">
-    <h1 style="margin:0 0 12px">Email Templates Gallery</h1>
-    <p style="margin:0 0 20px">Click a template to preview live:</p>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>FCP Email Templates</h1>
+      <p>Click any template below to preview it live</p>
+    </div>
     
-    <!-- Two Column Layout -->
-    <div style="display:flex;gap:40px;margin-bottom:24px">
-      <!-- Left Column: WCI Templates -->
-      <div style="flex:1">
-        <h2 style="margin:0 0 16px;font-size:20px;color:#e17100">WCI Templates</h2>
-        <ul style="list-style:none;padding:0;margin:0">
-          <li style="margin:10px 0"><a href="/WCI - 4th Edition/Renewal_WCIM_25WE1(4ED)_Compact.html" target="_blank">25WE1</a></li>
-          <li style="margin:10px 0"><a href="/WCI - 4th Edition/Renewal_WCIM_25WE2(4ED)_Compact.html" target="_blank">25WE2</a></li>
-          <li style="margin:10px 0"><a href="/WCI - 4th Edition/Renewal_WCIM_25WE3(4ED)_Compact.html" target="_blank">25WE3</a></li>
-          <li style="margin:10px 0"><a href="/WCI - 4th Edition/Renewal_WCIM_25WE4(4ED)_Compact.html" target="_blank">25WE4</a></li>
-          <li style="margin:10px 0"><a href="/WCI - 4th Edition/Renewal_WCIM_25WE5(4ED)_Compact.html" target="_blank">25WE5</a></li>
-        </ul>
-      </div>
-      
-      <!-- Right Column: SSW Templates -->
-      <div style="flex:1">
-        <h2 style="margin:0 0 16px;font-size:20px;color:#005911">SSW Templates</h2>
-        <ul style="list-style:none;padding:0;margin:0">
-          <li style="margin:10px 0"><a href="/SSW/Renewal_SSWC_25SE1(1ED).html" target="_blank">25SE1</a></li>
-          <li style="margin:10px 0"><a href="/SSW/Renewal_SSWC_25SE2(1ED).html" target="_blank">25SE2</a></li>
-          <li style="margin:10px 0"><a href="/SSW/Renewal_SSWC_25SE3(1ED).html" target="_blank">25SE3</a></li>
-          <li style="margin:10px 0"><a href="/SSW/Renewal_SSWC_25SE5(1ED).html" target="_blank">25SE5</a></li>
-        </ul>
+    <div class="content">
+      <div class="templates-grid">
+        <!-- Left Column: WCI Templates -->
+        <div class="template-column wci">
+          <h2>🪵 WCI Templates</h2>
+          <ul>
+            <li><a href="/WCI - 4th Edition/Renewal_WCIM_25WE1(4ED)_Compact.html" target="_blank">25WE1</a></li>
+            <li><a href="/WCI - 4th Edition/Renewal_WCIM_25WE2(4ED)_Compact.html" target="_blank">25WE2</a></li>
+            <li><a href="/WCI - 4th Edition/Renewal_WCIM_25WE3(4ED)_Compact.html" target="_blank">25WE3</a></li>
+            <li><a href="/WCI - 4th Edition/Renewal_WCIM_25WE4(4ED)_Compact.html" target="_blank">25WE4</a></li>
+            <li><a href="/WCI - 4th Edition/Renewal_WCIM_25WE5(4ED)_Compact.html" target="_blank">25WE5</a></li>
+          </ul>
+        </div>
+        
+        <!-- Right Column: SSW Templates -->
+        <div class="template-column ssw">
+          <h2>🔨 SSW Templates</h2>
+          <ul>
+            <li><a href="/SSW/Renewal_SSWC_25SE1(1ED).html" target="_blank">25SE1</a></li>
+            <li><a href="/SSW/Renewal_SSWC_25SE2(1ED).html" target="_blank">25SE2</a></li>
+            <li><a href="/SSW/Renewal_SSWC_25SE3(1ED).html" target="_blank">25SE3</a></li>            
+            <li><a href="/SSW/Renewal_SSWC_25SE5(1ED).html" target="_blank">25SE5</a></li>
+          </ul>
+        </div>
       </div>
     </div>
     
-    <hr style="margin:24px 0;border:0;border-top:1px solid #e5e5e5">
-    <p style="font-size:12px;color:#666">Tip: use absolute image URLs and test in Litmus/Email on Acid for real client rendering.</p>
+    <div class="footer">
+      <p>💡 <strong>Tip:</strong> Use absolute image URLs and test in Litmus/Email on Acid for real client rendering.</p>
+    </div>
   </div>
 </body>
 </html>

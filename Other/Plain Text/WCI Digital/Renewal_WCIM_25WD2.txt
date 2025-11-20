@@ -2,7 +2,7 @@
 1-800-457-9112
 903 Square St., Mount Joy, PA 17552
 Subscription Renewal Notice
-Dear [[FName]],
+Dear [[FNAME]],
 Two weeks ago, we reserved something special for you — but time's running out. Your
 Woodcarving Illustrated
 subscription is ending with the

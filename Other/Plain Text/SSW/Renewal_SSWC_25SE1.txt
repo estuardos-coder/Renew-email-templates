@@ -12,7 +12,7 @@ Right now, you still have access to:
 ✓ Step-by-step photo instructions from master woodworkers
 ✓ Tool reviews and expert techniques not found elsewhere
 ✓ The scrolling community you've been part of there in [[CITY]]
-But here's what you need to know, [[FName]]:
+But here's what you need to know, [[FNAME]]:
 When you renew for 2 years today, you'll receive exclusive rewards that aren't available anywhere else:
 Your
 "RENEW40"
@@ -33,7 +33,7 @@ FREE Digital 3-Pack
 Exclusive Scroll Saw downloads
 🪵 SECURE MY BONUSES & RENEW NOW
 Renewing online is quick and easy! You can still opt for a 1-year subscription, but think about it… Most scrollers spend $300+ yearly on patterns and books. Your 40% discount code alone can save you up to $40! Meanwhile, your subscription keeps those projects coming so you can keep creating those "I made this" moments.
-[[FName]], you've been an important part of the
+[[FNAME]], you've been an important part of the
 Scroll Saw Woodworking & Crafts
 family. Don't let anything stand between you and your next masterpiece.
 P.S.

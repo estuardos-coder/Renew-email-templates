@@ -2,12 +2,12 @@
 1-800-457-9112
 903 Square St., Mount Joy, PA 17552
 We've Got Exciting News for You!
-Hi [[FName]],
+Hi [[FNAME]],
 What was the last piece you carved where you stepped back and said, "I made this!"? That feeling never gets old, does it?
 Your Woodcarving Illustrated subscription ends with the
 [[EXPDATE]]
 issue.
-But here's what you need to know, [[FName]]:
+But here's what you need to know, [[FNAME]]:
 When you renew for 2 years today, you'll receive exclusive rewards that aren't available anywhere else:
 Your
 "RENEW40"
@@ -25,7 +25,7 @@ The carving community
 You've been part of it there in [[CITY]].
 Renewing online is quick and easy!
 You can still opt for a 1-year subscription, but think about it… Most carvers spend $300+ yearly on patterns and books. Your 40% discount code alone can save you up to $40! Meanwhile, your subscription keeps those projects coming so you can keep creating those "I made this" moments.
-[[FName]], you've been an important part of the
+[[FNAME]], you've been an important part of the
 Woodcarving Illustrated
 family. Don't let anything stand between you and your next masterpiece.
 🪵 SECURE MY BONUSES & RENEW NOW
